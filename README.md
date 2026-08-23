@@ -23,12 +23,13 @@ The data is sourced from the following sources:
 # Procedures:
 - Reproduce the scatterplots of the distributions first to understand why these matter to document understanding of the charts and to interpret the measures.
 - Identifying the metropolitan areas for comparison: Top 5 and Bottom 5 metropolitan statistical areas according to the U.S. Census Survey
+
+
+# Results & Findings (Notes):
 - Background: The original research paper found that
 - 69% of the US adult population uses Facebook. The data from this research project is constructed by a server wide query of the dataset. The full population is a total of 72.2 million Facebook users between 25 and 44 years old which accounts for 80% of the Facebook usage. IP address is utilized from each of the facebook users is assigned to a Zip Code.
 - Survey results indicate that uses of Facebook are consistent across income, racial, and educational groups.
 - Socioeconomic status is manually calculated for individuals and parents by the research team.(p.122) 
-- 
 
-# Results:
 
 # Conclusion:
